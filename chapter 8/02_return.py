@@ -27,12 +27,13 @@ actual thing handed back '''
 
 def square(n):
     return n * n
-print(square(5)) 
+
+x = (square(5))
+
+
 
 def add(a, b):
     return (a+b)
 result = add(10, 20)
 if result > 10:
     print("Big")
-
-
