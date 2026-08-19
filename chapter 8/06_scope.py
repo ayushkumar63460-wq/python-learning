@@ -7,6 +7,6 @@ def test():
 
 '''Here x exists outside the function.
 The function can read it.'''
-x = 20
-def test():
-    print(x)
+# x = 20
+# def test():
+#     print(x)
