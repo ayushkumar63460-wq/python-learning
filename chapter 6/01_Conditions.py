@@ -11,6 +11,6 @@ elif(a==0):
 
 else:
     print("You are Below the required age.....Sorry")
-not:
-print("Age has benn verified..You have an access")
+not print("Age has benn verified..You have an access")
+
 
